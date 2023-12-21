@@ -1,0 +1,8 @@
+[
+    ['GroenLinks-PvdA', 'GroenLinks', 'PvdA'],
+    ['NSC', 'Nieuw Sociaal Contact'],
+    ['FvD', 'Forum voor Democratie'],
+    ['PvdD', 'Partij voor de Dieren'],
+    ['CU', 'ChristenUnie'],
+    ['BVNL', 'Belang van Nederland', 'van Haga'],
+]

@@ -8,3 +8,16 @@ lxml==4.9.3
 requests==2.31.0
 bs4==0.0.1
 matplotlib==3.8.0
+transformers==4.33.2
+cloudscraper==1.2.71
+tensorflow==2.13.0
+tensorflow_hub==0.13.0
+torch==2.0.1
+seaborn==0.12.2
+vaderSentiment==3.3.2
+tensorflow-metal=1.0.1
+datasets=2.14.5
+ipywidgets=8.1.1
+statsmodels=0.14.0
+textract=1.6.5
+python-docx=0.8.11

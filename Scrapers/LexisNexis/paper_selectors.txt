@@ -1,0 +1,13 @@
+[
+    'AD/Algemeen Dagblad',
+    'Het Parool',
+    'NRC Handelsblad',
+    'de Volkskrant',
+    'De Telegraaf',
+    'Trouw',
+    'AD/Algemeen Dagblad.nl',
+    'Het Parool.nl',
+    'De Volkskrant.nl',
+    'De Telegraaf.nl',
+    'Trouw.nl'
+]

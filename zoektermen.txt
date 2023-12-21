@@ -1,0 +1,4 @@
+(VVD or PvdA or CDA or D66 or SGP or GroenLinks or GroenLinks-PvdA or SP or ChristenUnie or CU or Partij voor de Dieren or PvdD or PVV or 50Plus or Denk or Forum voor Democratie or FvD or Bij1 or BBB or Volt or BVNL or Belang van Nederland or van Haga or Nieuw Sociaal Contact or NSC) and length > 20
+
+
+2023-10-12 laatste data zonder NRC.nl
